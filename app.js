@@ -1,4 +1,4 @@
-import { Environment, KameleoonClient } from '@kameleoon/javascript-sdk';
+import { Environment, KameleoonClient } from '.../kameleoon/javascript-sdk';
 
 // -- Optional configuration
 const configuration = {

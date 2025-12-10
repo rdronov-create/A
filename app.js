@@ -1,4 +1,3 @@
-const { KameleoonClient, CustomData } = KameleoonSDK;
 import { Environment, KameleoonClient } from '@kameleoon/javascript-sdk';
 
 // -- Optional configuration
